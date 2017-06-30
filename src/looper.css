@@ -10,9 +10,10 @@
 }
 .looper .looper-inner {
   overflow: hidden;
-  width: 100%;
+  width: 90%;
   height: auto;
-  position: relative;
+  position:relative;
+  margin: auto;
   z-index: 2;
 }
 .looper .item {
